@@ -10,6 +10,11 @@ class Bye{
 		System.out.println("Bye");
 	}
 }
+class Say{
+	void a() {
+		System.out.println("say");
+	}
+}
 public class test1 {
 
 	public static void main(String[] args) {
