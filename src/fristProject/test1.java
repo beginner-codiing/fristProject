@@ -15,6 +15,11 @@ class Say{
 		System.out.println("say");
 	}
 }
+class Ho{
+	void a() {
+		System.out.println("Ho");
+	}
+}
 public class test1 {
 
 	public static void main(String[] args) {
