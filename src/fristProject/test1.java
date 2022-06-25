@@ -20,6 +20,11 @@ class Ho{
 		System.out.println("Ho");
 	}
 }
+class Na{
+	void a() {
+		System.out.println("Na");
+	}
+}
 public class test1 {
 
 	public static void main(String[] args) {
