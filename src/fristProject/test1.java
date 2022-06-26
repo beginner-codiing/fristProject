@@ -25,6 +25,11 @@ class Na{
 		System.out.println("Na");
 	}
 }
+class Who{
+	void a() {
+		System.out.println("Who");
+	}
+}
 public class test1 {
 
 	public static void main(String[] args) {
